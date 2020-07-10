@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{17F8A8C9-B1E6-465B-99B3-0E6F6B655C76}|Default">
+  <MonoDevelop.Ide.ItemProperties.excelExport PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="excelExport/Program.cs">
+    <Files>
+      <File FileName="excelExport/Program.cs" Line="6" Column="17" />
+      <File FileName="excelExport/Config.cs" Line="6" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="excelExport" expanded="True">
+            <Node name="excelExport" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

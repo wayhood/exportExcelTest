@@ -1,0 +1,1 @@
+database: "server=127.0.0.1;userid=root;password=root;database=test;pooling=true;CharSet=utf8;port=3306;SslMode = none;AllowLoadLocalInfile=true;allow zero datetime=true;default command timeout=999999"

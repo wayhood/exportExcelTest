@@ -1,0 +1,2 @@
+database: root:root@tcp(127.0.0.1)/test
+maxproces: 1
